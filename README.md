@@ -1,7 +1,7 @@
 kvmfun
 ======
 
-These are the files from https://haploc.wordpress.com/category/kvm/
+These are the files from https://cr-net.be/posts/playing_with_kvm/ and https://cr-net.be/posts/playing_with_kvm_11/
 
 Scripts and config for headless virtual machine installations in KVM.
 
